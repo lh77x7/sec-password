@@ -27,6 +27,29 @@ nouns = ['albatross', 'biddy', 'blackbird',
 'vulture', 'woodpecker', 'wren'
 ]
 
+#nouns taken from mammal's names
+nouns2 = ['armadillo','ass','bat',
+'bear','beaver','cat',
+'chimpanzee','cow','coyote',
+'deer','dog','dolphin',
+'elephant','fox','panda',
+'gibbon','giraffe','goat',
+'gopher','hedgehog','hippopotamus',
+'horse','humpback-whale','jaguar',
+'kangaroo','koala','leopard',
+'lion','llama','lynx',
+'mole','monkey','mouse',
+'narwhal','orangutan','orca',
+'otter','ox','pig',
+'polar-bear','porcupine','puma',
+'rabbit','raccoon','rat',
+'rhinoceros','squirrel','tiger',
+'walrus','weasel','wolf',
+'zebra'
+]
+
+#
+
 # not a full list of special characters
 special_characters = [
 '!', '@', '#',
