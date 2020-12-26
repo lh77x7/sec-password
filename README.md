@@ -1,2 +1,2 @@
-# sec_password
+# sec-password
  
